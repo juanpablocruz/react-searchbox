@@ -1,19 +1,19 @@
-# react-searchbox
-react-searchbox is a simple component that implements a input that searches on change from a pool of elements provided to it by usign [needleman-js](https://github.com/juanpablocruz/needleman-wunsch-javascript) algorithm.
+# react-searchbox-needleman
+react-searchbox-needleman is a simple component that implements a input that searches on change from a pool of elements provided to it by usign [needleman-js](https://github.com/juanpablocruz/needleman-wunsch-javascript) algorithm.
 
 ## Installation
 
 You can install this package by running the following command:
 ```bash
-npm install react-searchbox
+npm install react-searchbox-needleman
 ```
 
 ## Usage
 
-In a React application use the react-searchbox components:
+In a React application use the react-searchbox-needleman components:
 
 ```javascript
-import SearchBox from 'react-searchbox';
+import SearchBox from 'react-searchbox-needleman';
 
 function App() {
   const [value, setValue] = useState(null)
@@ -31,7 +31,7 @@ function App() {
 
 ## Configuration
 
-react-searchbox accepts the following configuration options:
+react-searchbox-needleman accepts the following configuration options:
 
 - pool (required): an array of strings to search from.
 - onSelect (required): the callback to be called when the user selects an option from the suggestions. ``(value: string):void ``

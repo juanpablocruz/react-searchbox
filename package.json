@@ -1,7 +1,6 @@
 {
-  "name": "react-searchbox",
+  "name": "react-searchbox-needleman",
   "version": "1.0.0",
-  "private": true,
   "description": "React search box input with needleman-wunsch search",
   "keywords": ["react", "search", "searchbox", "needleman-wunsch", "needleman"],
   "author": "Juan Pablo Cruz <juanpablocruzmaseda@gmail.com>",
