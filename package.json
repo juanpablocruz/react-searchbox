@@ -1,12 +1,13 @@
 {
   "name": "react-searchbox-needleman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React search box input with needleman-wunsch search",
   "keywords": ["react", "search", "searchbox", "needleman-wunsch", "needleman"],
   "author": "Juan Pablo Cruz <juanpablocruzmaseda@gmail.com>",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": ["dist", "README.md"],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com:juanpablocruz/react-searchbox.git"
