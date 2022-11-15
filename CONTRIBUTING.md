@@ -1,5 +1,5 @@
 # Contributing
-First off, thank you for considering contributing to AppVisor. 
+First off, thank you for considering contributing to react-searchbox. 
 
 ## Where do I go from here?
 
@@ -27,7 +27,7 @@ git checkout feature/my-branch
 git rebase main
 git push --set-upstream origin feature/my-branch
 ```
-Finally, get to Github and [make a Pull Request](https://github.com/juanpablocruz/react-search/pulls) :D
+Finally, get to Github and [make a Pull Request](https://github.com/juanpablocruz/react-searchbox/pulls) :D
 
 ## Keeping your Pull Request updated
 if a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to update your branch so it's easier to merge.
